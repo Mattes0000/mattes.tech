@@ -165,13 +165,15 @@ main{
     border-radius: 25px;
 }
 
+
 @media screen and (max-width: 650px ){
     .ways{
         text-align: center;
-        width: 95vw;
-        
+        width: 85vw;
+        padding-left: 10px;
     }
 }
+
 
 footer{
     margin-top: 99px;

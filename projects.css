@@ -179,7 +179,6 @@ main{
 h1, h2 ,h3 ,h4 , h5, h6, p{
     text-align: center;
 }
-
 #subtext{
     margin-top: 40px;
 }
@@ -213,5 +212,16 @@ main .todo p{
 
 footer{
     margin-top: 150px;
-    width:99.5vw;
+    width:99vw;
+}
+.preview{
+    background-color: rgba(0,0,0,0.3);
+    width: 100px;
+    padding: 10px 20px;
+    padding-bottom: 15px;
+    border-radius: 15px;
+    margin-left: 20px;
+}
+a .preview{
+    margin-top: 60px;
 }
