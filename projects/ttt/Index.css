@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-color: rgba(25,32,43,1);
+    
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+body h1{
+    margin-top: 40vh;
+    color: white;
+    font-size: 40px;
+}
+body h3{
+    color: red;
+}
+#gb{
+    text-align: right;
+    margin-top: 20px;
+    margin-right: 28px;
+    color: white;
+    font-size: 20px;
+}
+#gb:hover{
+    color: aqua;
+    transition: 0.4s;
+}
