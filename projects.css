@@ -193,27 +193,14 @@ main a{
 main a:hover{
 color: aqua;
 }
-main .weather{
+main .wrapper{
     padding-top:25px;
 }
-main .weather p{
+main .wrapper p{
     color: red;
     padding-bottom:5px;
 }
-main .todo{
-    padding-top:40px;
-}
-main .todo p{
-    color: red;
-    padding-bottom:5px;
-}
-main .ttt{
-    padding-top:40px;
-}
-main .ttt p{
-    color: red;
-    padding-bottom:5px;
-}
+
 
 
 
