@@ -139,7 +139,7 @@ main{
 
 .intro{
     text-align: center;
-    padding-top: 60px;
+    padding-top: 40px;
 }
 
 #desc{
@@ -148,6 +148,18 @@ main{
 }
 #tsrs{
     color: rgb(244, 131, 131);
+}
+#tsrs a{
+    color: rgb(244, 131, 131);
+}
+#tsrs :hover{
+    color: rgb(251, 94, 94);
+}
+#explh a{
+    color: white;
+}
+#explh a:hover{
+    color: rgb(136, 136, 187);
 }
 
 
