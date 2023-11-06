@@ -152,11 +152,13 @@ color: aqua;
 
 }
 main .wrapper{
-    padding-top:25px;
+    padding-top:35px;
 }
 main .wrapper p{
     color: red;
     padding-bottom:5px;
+}
+.wrapper{
 }
 
 main #Virus{
